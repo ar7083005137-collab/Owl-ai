@@ -1,0 +1,6 @@
+{
+  "name": "Owl AI",
+  "description": "Premium smart AI assistant with chat, math solver, photo math, AI image and video creator, and real-time backend configuration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

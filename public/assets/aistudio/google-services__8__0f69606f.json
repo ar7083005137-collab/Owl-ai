@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "431368955369",
+    "firebase_url": "https://ts-jarvis-ai-default-rtdb.firebaseio.com",
+    "project_id": "ts-jarvis-ai",
+    "storage_bucket": "ts-jarvis-ai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431368955369:android:6ca096243d6e75aadf9778",
+        "android_client_info": {
+          "package_name": "com.owlai.assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431368955369-8tkc1g2b9jkg9sj95b4ut2cfd5okanfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwxGaRcE5X3c3AESxVhtbE_9wnY-zi-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431368955369-8tkc1g2b9jkg9sj95b4ut2cfd5okanfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431368955369:android:b986f7506fce2ca0df9778",
+        "android_client_info": {
+          "package_name": "com.shivam.fanpay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431368955369-8tkc1g2b9jkg9sj95b4ut2cfd5okanfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwxGaRcE5X3c3AESxVhtbE_9wnY-zi-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431368955369-8tkc1g2b9jkg9sj95b4ut2cfd5okanfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431368955369:android:ba6c1f0ed071b1dedf9778",
+        "android_client_info": {
+          "package_name": "com.shivam.mayra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431368955369-k0dj18023i0n3hh7dr62fnssone3m5u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shivam.mayra",
+            "certificate_hash": "6a87a802c08afc808c79e59f5cc4a33cf7ae7035"
+          }
+        },
+        {
+          "client_id": "431368955369-8tkc1g2b9jkg9sj95b4ut2cfd5okanfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwxGaRcE5X3c3AESxVhtbE_9wnY-zi-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431368955369-8tkc1g2b9jkg9sj95b4ut2cfd5okanfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:431368955369:android:5ee47970b966c6fbdf9778",
+        "android_client_info": {
+          "package_name": "com.ts.jarvis.aiagent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "431368955369-8tkc1g2b9jkg9sj95b4ut2cfd5okanfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGwxGaRcE5X3c3AESxVhtbE_9wnY-zi-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "431368955369-8tkc1g2b9jkg9sj95b4ut2cfd5okanfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
